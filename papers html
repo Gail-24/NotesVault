@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 12 Question Papers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Grade 12 Question Papers</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="papers.html">Question Papers</a></li>
+                <li><a href="notes.html">Study Notes</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Download Past Question Papers</h2>
+        <ul>
+            <li><a href="papers/2023_math.pdf" download>2023 Mathematics Paper</a></li>
+            <li><a href="papers/2023_science.pdf" download>2023 Science Paper</a></li>
+            <!-- Add more papers as needed -->
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Grade 12 Study Resources</p>
+    </footer>
+</body>
+</html>
